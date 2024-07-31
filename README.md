@@ -25,4 +25,4 @@ CryptoPlace is a web application that provides the most up-to-date cryptocurrenc
 - https://www.coingecko.com/en/api
 
 # For Live Project:
-- https://cryptoplacewebsite.netlify.app
+- [https://cryptoplacewebsite.netlify.app](https://cryptoplacewebsitebyyusufyaman.netlify.app/)
