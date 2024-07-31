@@ -25,7 +25,7 @@ const Navbar = () => {
   return (
     <div className="navbar">
       <Link to={`/`}>
-        <img src="/public/assets/logo.png" alt="logo" className="logo" />
+        <img src="../../../assets/logo.png" alt="logo" className="logo" />
       </Link>
       <ul>
         <Link to={`/`}>
@@ -41,7 +41,8 @@ const Navbar = () => {
           <option value="eur">EUR</option>
         </select>
         <button>
-          Sign up <img src="/public/assets/arrow_icon.png" alt="sign up icon" />
+          Sign up{" "}
+          <img src="../../../assets/arrow_icon.png" alt="sign up icon" />
         </button>
       </div>
     </div>
