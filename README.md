@@ -18,7 +18,8 @@ CryptoPlace is a web application that provides the most up-to-date cryptocurrenc
 - CoinGecko API : A third-party API used to provide real-time cryptocurrency data.
 
 # Preview:
-![cryptoplace](https://github.com/user-attachments/assets/884e883b-7fcf-4ff1-ad28-ad7dd35ff460)
+
+![cryptoplace](https://github.com/user-attachments/assets/ca40f059-7d37-4f6f-9a42-1e2ce6dad971)
 
 # Used API:
 - https://www.coingecko.com/en/api
